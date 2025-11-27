@@ -29,6 +29,7 @@ Take   A = 10
 <img width="711" height="522" alt="image" src="https://github.com/user-attachments/assets/ec3a4866-a93f-4af2-b6d2-00b8218930fa" />
 
 ## PROCEDURE:
+
 Differential amplifier
 1. Select the value of R1, R2, R3 & Rf such that R1=R2 and R3=Rf. 
 2. Connect the circuit as per as the circuit diagram. 
